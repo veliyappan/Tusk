@@ -2,3 +2,4 @@ thisis the beginning of the program
 test this application on later stage
 i am a new developer and this is my first program to develop this code
 data is mine and usage is also mine
+vel is a new personality and usage of this is alos the same
